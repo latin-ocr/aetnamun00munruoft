@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aetnamun00munruoft_0006.png"; bbox 0 0 1997 3272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 923 1397 1140 1442">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 923 1397 1140 1442">
+     <span class='ocr_line' id='line_1_1' title="bbox 923 1397 1140 1442; baseline 0.009 -9"><span class='ocrx_word' id='word_1_1' title='bbox 923 1397 1117 1442; x_wconf 67' lang='lat' dir='ltr'><strong>OEamhrfflgz</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1130 1408 1140 1435; x_wconf 77' lang='lat' dir='ltr'>z</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 785 1462 1275 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 785 1462 1275 1526">
+     <span class='ocr_line' id='line_1_2' title="bbox 785 1462 1275 1487; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 785 1462 920 1483; x_wconf 77' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_4' title='bbox 942 1463 983 1483; x_wconf 89' lang='lat' dir='ltr'><strong>BY</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1006 1464 1030 1484; x_wconf 83' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1053 1464 1075 1484; x_wconf 88' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1099 1463 1191 1487; x_wconf 75' lang='lat' dir='ltr'>CLAY.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1214 1464 1275 1484; x_wconf 56' lang='lat' dir='ltr'><strong>MA.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 814 1503 1247 1526; baseline 0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 814 1503 854 1525; x_wconf 77' lang='lat' dir='ltr'><strong>AT</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 866 1503 929 1525; x_wconf 77' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 942 1504 1136 1525; x_wconf 67' lang='lat' dir='ltr'><strong>UMVERSITY</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1150 1504 1247 1526; x_wconf 62' lang='lat' dir='ltr'>PRESS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
